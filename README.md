@@ -6,10 +6,11 @@
 - 🔭 I’m currently working on **Notion project**
 
 - 💬 Ask me about **react ,javascript**
-
+-  - Just started  project learining
 - 📫 How to reach me **rajchauhan6279@gmail.com**
 
 - ⚡ Fun fact **Never ask a coder a Joke**
+- ⚡coding=creativiety
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
