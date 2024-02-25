@@ -1,9 +1,9 @@
 ![rightimagemajdigithub](https://github.com/itsdevrajchauhan/itsdevrajchauhan/assets/90085709/e03dbe72-9d68-465b-8550-f6b42b68c753)<h1 align="center">Hi 👋, I'm Raj Chauhan</h1>
-<h3 align="center">A passionate MERN-Stack  web-developer from India</h3>
+<h3 align="center">A MERN-Stack  web-developer from India</h3>
 <img aling="right"  width="400" src="![rightimagemajdigithub](https://github.com/itsdevrajchauhan/itsdevrajchauhan/assets/90085709/ea0c60e0-b3ab-41e9-bb9d-e9da5d2cf26e)" >
 
 
-- 🔭 I’m currently working on **Notion project**
+- 🔭 I’m currently working on **Notion, Discord-clone project**
 
 - 💬 Ask me about **react ,javascript**
 -  - Just started  project learining
