@@ -1,21 +1,26 @@
 <h1 align="center">Hi 👋, I'm Raj Chauhan</h1>
 <h2>MCA Student Persuing Post graduation from Mumbai university</h2>
 <h3 align="center">A passionate MERN-stack development per from India</h3>
-<h3>Live project Disclone web Server :  href="next13-discord-clone-eight.vercel.app" </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsdevrajchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="itsdevrajchauhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsdevrajchauhan" alt="itsdevrajchauhan" /></a> </p>
 
-- 🔭 I’m currently working on **Notion project**
-
-- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **react ,javascript ,C ++**
 
 - 📫 How to reach me **rajchauhan6279@gmail.com**
 
 - ⚡ Fun fact **Never ask a coder a Joke**
+  
+- Live Projects :
+<h3>Live project Disclone web Server:
+  <a href="https://next13-discord-clone-eight.vercel.app" target="_blank" rel="noopener noreferrer">
+    Open Disclone
+  </a>
+</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
