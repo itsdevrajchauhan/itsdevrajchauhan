@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsdevrajchauhan" alt="itsdevrajchauhan" /></a> </p>
 
-- 🔭 I’m currently working on **PHP Project with Hybrid tech**
+- 🔭 I’m currently working on ** Project with Hybrid tech**
 
 - 🌱 I’m currently learning **DSA**
 
