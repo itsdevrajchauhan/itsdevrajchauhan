@@ -1,5 +1,5 @@
 # 💫 About Me:
--I'm Currently Learning DSA Concepts and Applying in that In Coding Platforms<br>-I am Looking to Collaborate on Project which need's Problem solving and Creative  Developement<br>-All of my Projects are Available at My Portfolio  https://itsdevrajchauhan.netlify.app/<br>-How to reach me : 9324850417<br>Email : rajchauhan6279@gmail.com<br><br>
+<br>-I am Looking to Collaborate on Project which need's Problem solving and Creative  Developement<br>-All of my Projects are Available at My Portfolio  https://itsdevrajchauhan.netlify.app/<br>-How to reach me : 9324850417<br>Email : rajchauhan6279@gmail.com<br><br>
 
 
 ## 🌐 Socials:
